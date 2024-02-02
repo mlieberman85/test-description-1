@@ -1,0 +1,18 @@
+contribution-policy:
+  accepts-automated-pull-requests: true
+  accepts-pull-requests: true
+distribution-points: []
+header:
+  expiration-date: 2025-02-01T14:30:04.709443Z
+  last-reviewed: 2024-02-02T14:30:04.709445Z
+  last-updated: 2024-02-02T14:30:04.709445Z
+  license: https://github.com/mlieberman85/test-description-1/blob/main/LICENSE
+  project-url: https://github.com/mlieberman85/test-description-1
+  schema-version: 1.0.0
+project-lifecycle:
+  bug-fixes-only: false
+  status: active
+security-contacts: []
+vulnerability-reporting:
+  accepts-vulnerability-reports: true
+  security-policy: https://github.com/mlieberman85/test-description-1/blob/main/SECURITY.md
